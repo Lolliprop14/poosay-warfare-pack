@@ -1,0 +1,65 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/counter-strike-grenades.pw.toml"
+hash = "9cba87e8ffd0f9aa192c0e5e66fc4581facb497e63f375a227bfed35626e929a"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "55d77d596c2d805f28b47ea53725ccaa220d2857177cad3909e48d8c12b2a2cb"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "898fd2704dd260ae8f3dc20b4416439751f0a9e76367c4f0bbdac886b6987802"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "1678327ac50408273c1828b631929128d3fdfd54cda7b2e823ce9352495a68ff"
+metafile = true
+
+[[files]]
+file = "mods/poosaywarfare.jar"
+hash = "17749f3b707756de04e8189f1f1a5c1aa62f6ed3a42934b12f037ace2fa2b691"
+
+[[files]]
+file = "mods/sbw-drone-warfare.pw.toml"
+hash = "62cd753daced5ac85d651e2c774a0fea59542d12b4b9fb3824b92ee4fffbc98d"
+metafile = true
+
+[[files]]
+file = "mods/superb-warfare.pw.toml"
+hash = "42b6ba778eedb22ecf1d9926862c002d920202aeba79542f049a860cbf3ac008"
+metafile = true
+
+[[files]]
+file = "mods/tacz-fixlorant.pw.toml"
+hash = "2d4253d824f19fc4205db21fa267a30cda0a80e618a7aa86c22bb0587d2259ca"
+metafile = true
+
+[[files]]
+file = "mods/tacz-lesraisins-tactical-equipements.pw.toml"
+hash = "d97655330510c21898fe03027bd9841e34af2c6bc89372f22a6b23e71068b5ab"
+metafile = true
+
+[[files]]
+file = "mods/tacz-presence.pw.toml"
+hash = "2efee7b4e5ffe1b14c48a453c3f4dde15cac7614b41c1a371284a6acfae39ec5"
+metafile = true
+
+[[files]]
+file = "mods/tacz-tacz-bullet-improvement.pw.toml"
+hash = "59e2d86604e41449a868f9556e7a71b2ccdaab407dde9786381f81db5b72f14f"
+metafile = true
+
+[[files]]
+file = "mods/timeless-and-classics-zero.pw.toml"
+hash = "733b8967d6f263e9cc7ca2f001067be6ed8e21c214d73afb4e7fb418fa3e4364"
+metafile = true

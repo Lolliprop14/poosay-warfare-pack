@@ -1,0 +1,13 @@
+name = "[SBW] Drone Warfare ( Big update coming soon! )"
+filename = "SBW 0.8.8  0.8.9 FINAL FORGE sbw-drone-warfare-1.0.1-Hotfix.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "23b1f9947e47d4498b422ba1acafc2b7d7feb7ff"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8323227
+project-id = 1523065
