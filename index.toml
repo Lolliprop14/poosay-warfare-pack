@@ -15,6 +15,21 @@ hash = "55d77d596c2d805f28b47ea53725ccaa220d2857177cad3909e48d8c12b2a2cb"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "b67251b53eb4685d349bda68fde30b021e99900fe4d445e6c0f3e9fa0a908580"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "f27d83c5464f9c55bc281b1b3a9aba3e4dca0cdf928ea801839c52cb8ed61245"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
 metafile = true
@@ -25,13 +40,23 @@ hash = "898fd2704dd260ae8f3dc20b4416439751f0a9e76367c4f0bbdac886b6987802"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "1a9564ded8e9cd1f843f9de7fc87ffbf73033aab51494205458b0e58cc0ab194"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "1678327ac50408273c1828b631929128d3fdfd54cda7b2e823ce9352495a68ff"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "7ae02bdedcaea01e6a9eae2be8d963677272071aa948868b9473c5b399d78879"
+metafile = true
+
+[[files]]
 file = "mods/poosaywarfare.jar"
-hash = "44e8d7f28a582e15871b32b44bec501a1bfd790f235189bd22769e6cf2227408"
+hash = "125e751de17be7bc256f098275538af1efeeb705b11eddc8785304b712f4cf52"
 
 [[files]]
 file = "mods/superb-warfare.pw.toml"
