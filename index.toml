@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "9b40fcf6f98c02f99240a17419dace9f104a4a8e360fb0a4f0311f86933f8a05"
+
+[[files]]
 file = "mods/counter-strike-grenades.pw.toml"
 hash = "9cba87e8ffd0f9aa192c0e5e66fc4581facb497e63f375a227bfed35626e929a"
 metafile = true
@@ -27,12 +31,7 @@ metafile = true
 
 [[files]]
 file = "mods/poosaywarfare.jar"
-hash = "17749f3b707756de04e8189f1f1a5c1aa62f6ed3a42934b12f037ace2fa2b691"
-
-[[files]]
-file = "mods/sbw-drone-warfare.pw.toml"
-hash = "62cd753daced5ac85d651e2c774a0fea59542d12b4b9fb3824b92ee4fffbc98d"
-metafile = true
+hash = "44e8d7f28a582e15871b32b44bec501a1bfd790f235189bd22769e6cf2227408"
 
 [[files]]
 file = "mods/superb-warfare.pw.toml"
