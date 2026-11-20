@@ -55,6 +55,11 @@ hash = "7ae02bdedcaea01e6a9eae2be8d963677272071aa948868b9473c5b399d78879"
 metafile = true
 
 [[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "ec82028f89a5103a6af4f736a97273006c97d3145fdef7d029fc6055463cad9e"
+metafile = true
+
+[[files]]
 file = "mods/poosaywarfare.jar"
 hash = "7d96e5b33f8c510a594348d53dd806f08a0b0947af56202b0c5bd1e7307b8d85"
 
