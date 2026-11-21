@@ -61,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/poosaywarfare.jar"
-hash = "25ecc31765d6ca672df0a7717e1767db08c0d1b4783c899eadd2714a85429076"
+hash = "09c4b65ee5f01b0b295b8a5306e7ef0a99952eab26f9975aa1617fc34054b3f4"
 
 [[files]]
 file = "mods/superb-warfare.pw.toml"
