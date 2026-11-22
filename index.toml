@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "7299504b6443648112f281e18e1f7da185f841c0d27c508e683e40c6d1a14c08"
+hash = "35aa35b6def63f843e9b291f023f5d2e0c5eea06d96e62ec04057902e7b1bb67"
 
 [[files]]
 file = "mods/counter-strike-grenades.pw.toml"
@@ -61,7 +61,12 @@ metafile = true
 
 [[files]]
 file = "mods/poosaywarfare.jar"
-hash = "18b7c372de94455971719365eec4aa2c512c206ac60118b560d0c21a866e6bd0"
+hash = "a76a3649184bca596e681d9174d3004343754fce4f6b9d2b510c1a012f39328b"
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "a577727b4b1fa0dd483e75c451d89840cb7231a4565d55b873e89eebd35708d2"
+metafile = true
 
 [[files]]
 file = "mods/superb-warfare.pw.toml"
