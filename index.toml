@@ -61,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/poosaywarfare.jar"
-hash = "57089a2d4764763737f4eac1702611bfe093055bd3e83eddcadf348125be4b0c"
+hash = "7bdae771761cab0e1728e9fa5d2ca4312cb4ade1de552725223bc3420a9d0d73"
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
